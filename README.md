@@ -1,2 +1,2 @@
 # OpenFoamDocker
-Dockerfile for OpenFoam 9 on Ubuntu.
+Dockerfile for OpenFoam 10 on Ubuntu.
